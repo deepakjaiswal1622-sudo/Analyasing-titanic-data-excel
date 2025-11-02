@@ -1,3 +1,6 @@
+<img width="927" height="593" alt="image" src="https://github.com/user-attachments/assets/43e95945-822f-4958-a54e-c10d02aa0d89" />
+This project analyze titanic data to find the factors affecting survival rate of the passenger
+
 # Analyasing-titanic-data-excel
 Analysing titanic data to find the factor affecting survival rate of the passe
 Report: Titanic Dataset Survival Analysis (Foundational)
